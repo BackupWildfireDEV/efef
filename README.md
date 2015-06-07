@@ -41,6 +41,14 @@
     <item type="dimen" name="prism_home_14_shadowSize">3.3</item>
     <item type="dimen" name="prism_lock_11_shadowDy">3.3</item>
     <item type="dimen" name="prism_lock_11_shadowSize">3.3</item>
+    <item type="dimen" name="prism_lock_17_shadowDy">1.7</item>
+    <item type="dimen" name="prism_lock_17_shadowSize">2.5</item>
+    <item type="dimen" name="prism_lock_19_shadowDy">1.7</item>
+    <item type="dimen" name="prism_lock_19_shadowSize">2.5</item>
+    <item type="dimen" name="prism_lock_20_shadowDy">1.7</item>
+    <item type="dimen" name="prism_lock_20_shadowSize">2.5</item>
+    <item type="dimen" name="prism_lock_23_shadowDy">1.7</item>
+    <item type="dimen" name="prism_lock_23_shadowSize">2.5</item>
     <dimen name="railing_layout_height">88.0px</dimen>
     <dimen name="railing_layout_large_height">138.0px</dimen>
     <item type="dimen" name="simple_launcher_02_shadowDy">1.7</item>
@@ -235,6 +243,14 @@
     <dimen name="fixed_prism_lock_13">53.0px</dimen>
     <dimen name="fixed_prism_lock_14">33.0px</dimen>
     <dimen name="fixed_prism_lock_15">28.0px</dimen>
+    <dimen name="fixed_prism_lock_16">50.0px</dimen>
+    <dimen name="fixed_prism_lock_17">33.0px</dimen>
+    <dimen name="fixed_prism_lock_18">30.0px</dimen>
+    <dimen name="fixed_prism_lock_19">60.0px</dimen>
+    <dimen name="fixed_prism_lock_20">33.0px</dimen>
+    <dimen name="fixed_prism_lock_21">60.0px</dimen>
+    <dimen name="fixed_prism_lock_22">37.0px</dimen>
+    <dimen name="fixed_prism_lock_23">37.0px</dimen>
     <dimen name="fixed_prism_masthead_01">28.0px</dimen>
     <dimen name="fixed_prism_masthead_02">70.0px</dimen>
     <dimen name="fixed_prism_masthead_03">33.0px</dimen>
